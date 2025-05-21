@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Brendan
--  I am a Senior pursuing a Bachelor of Science in Data Science
--  I’m currently learning Java, R, Python, and SQL
+-  I recently recieved a Bachelor of Science in Data Science
+-  I have experience in Java, R, Python, and SQL
 
